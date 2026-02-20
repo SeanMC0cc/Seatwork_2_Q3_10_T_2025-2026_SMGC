@@ -1,6 +1,6 @@
 from pyscript import display, document
 
-def check_intramurals(event=None):
+def check_intramurals(event):
     olr = document.querySelector("input[name='OLR']:checked")
     mc = document.querySelector("input[name='MC']:checked")
     grade = document.getElementById("Grade").value
