@@ -1,0 +1,96 @@
+body {
+    background-color:#EEE2DF;
+    font-family: Heiti SC;
+    color: white;
+}
+
+.navbar {
+    background-color: #7D8570;
+    border: 5px solid #646F58;
+}
+
+.nav-link {
+    color: antiquewhite;
+}
+
+.logo1{
+    width:50px;
+    margin:10px;
+}
+
+.header{
+    text-align:center;
+    color:white;
+}
+
+.body-container{
+    background-color: rgba(0, 0, 0, .6);
+    padding: 50px;
+    margin-bottom: 20px;
+    margin-top:100px;
+    box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+}
+
+.card {
+    margin: 20px;
+    padding:8px;
+    background-color: #AFBE8F;
+    border-radius: 25px;
+    border: 5px solid #7D8570;
+    color: #3E363F;
+}
+
+.accountcard {
+    text-align:center;
+
+}
+
+.accountinput{
+    margin:15px;
+}
+
+img{
+	width: 100px;
+	border-radius:70px;
+	border: 5px solid gray;
+    margin:10px;
+}
+
+
+select{
+    margin:10px;
+}
+
+.footer {
+    font-family: courier;
+    text-align: center;
+    color: white;
+    background-color: rgba(0, 0, 0, .6);
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    height: 4%;
+}
+
+.intrams-img {
+    width: 600px;
+    border: 5px solid gray;
+    margin: auto;
+}
+
+.title {
+    text-align: center;
+    background-color: #AFBE8F;
+    border-radius: 25px;
+    border: 5px solid #7D8570;
+    color: #504B3A;
+    font-family: courier;
+}
+
+h3, h2, h1{
+    font-family:courier
+}
+
+h4{
+    margin:20px;
+}
